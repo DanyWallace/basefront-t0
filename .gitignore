@@ -1,0 +1,5 @@
+/pbdata
+/tests/data
+build/*sock
+basefront-t0
+*.auth.json
