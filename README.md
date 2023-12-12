@@ -1,0 +1,1 @@
+This pb image attemps to get jwt auth tokens (sent to a unix socket) everytime someone auths succesfully, so you can attempt to add these to a list of valid sessions. Open to ideas.
